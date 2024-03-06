@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+html{
+    font-size: 18px;
+    font-family: 'Montserrat';
+    background-image: url("DeutschFlageBackground.jpg");
+    background-color: #cccccc;;
+    color: rgb(red, green, blue)
+}
